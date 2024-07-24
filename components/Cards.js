@@ -5,7 +5,7 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Creative Blog Hub</h1>
+        <h1 style={{ color: '#D9D6D5' }}>Creative Blog Hub</h1> 
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
