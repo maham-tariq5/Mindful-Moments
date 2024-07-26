@@ -1,3 +1,3 @@
-working on About page
+about page pre much done
 
-still need to work on pages embedded in the cards on blog page
+figuring out card pages??
