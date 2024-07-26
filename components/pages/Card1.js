@@ -1,28 +1,30 @@
 import React from 'react';
-import './Card1.css'; // Import the CSS file
+import './Card1.css'; // Import the updated CSS file
 
 function Card1() {
   return (
-    <div className="card1">
+    <div className="pageContainer">
       <img
-        className="card1Img"
+        className="headerImage"
         src='/images/Lake.jpeg'
         alt='Hidden Waterfall'
       />
-      <div className="card1Info">
-        <h1 className="card1Title">Explore the Hidden Waterfall</h1>
-        <span className="card1Date">2 hours ago</span>
+      <div className="pageContent">
+        <h1 className="title">Explore the Hidden Waterfall</h1>
+        <span className="date">2 hours ago</span>
+        <p className="description">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ipsa, perferendis! Error assumenda ab laboriosam quas fugiat 
+        tempora a perspiciatis, hic delectus saepe, 
+        quae earum natus similique fuga corporis dolorem possimus.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ipsa, perferendis! Error assumenda ab laboriosam quas fugiat 
+        tempora a perspiciatis, hic delectus saepe, 
+        quae earum natus similique fuga corporis dolorem possimus.
+        </p>
       </div>
-      <p className="card1Desc">
-        Detailed information about the hidden waterfall in the Amazon Jungle.
-        Additional tips and information for travelers.
-        Lorem  
-      </p>
     </div>
   );
 }
 
 export default Card1;
-
-
-
