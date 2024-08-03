@@ -19,7 +19,7 @@ function Cards() {
             <CardItem
               id = '2'
               src='images/Maham.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Patience is a Virtue'
               label='Luxury'
               
             />
@@ -27,14 +27,14 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               id = '3'
-              src='images/Maham.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              src='images/pics.jpg'
+              text='Allow Yourself to Grow'
               label='Mystery'
               
             />
             <CardItem
               id = '4'
-              src='images/Travel.jpeg'
+              src='images/Travel.jpg'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
               
