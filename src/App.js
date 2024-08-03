@@ -7,6 +7,7 @@ import Card1 from './components/pages/Card1';
 import Card2 from './components/pages/Card2';
 import Card3 from './components/pages/Card3';
 import About from './components/pages/About';
+import Cards from './components/Cards';
 
 
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
@@ -31,3 +32,4 @@ function App() {
 }
 
 export default App;
+
