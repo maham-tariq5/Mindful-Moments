@@ -1,3 +1,3 @@
-figuring out how to deploy?
+got it deployed hehe
 
 fixing chrome image rendering problem
