@@ -8,7 +8,8 @@ import Cards from '../Cards';
 function Home() {
   return (
     <>
-      <Main />
+      <Main  />
+      <Cards />
 
     </>
   );
