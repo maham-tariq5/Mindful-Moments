@@ -6,6 +6,7 @@ import Blogs from './components/pages/Blogs';
 import Card1 from './components/pages/Card1';
 import Card2 from './components/pages/Card2';
 import Card3 from './components/pages/Card3';
+import Card4 from './components/pages/Card4';
 import About from './components/pages/About';
 import Cards from './components/Cards';
 
@@ -22,6 +23,7 @@ function App() {
         <Route path='/card/1' component={Card1} />
         <Route path='/card/2' component={Card2} />
         <Route path='/card/3' component={Card3} />
+        <Route path='/card/4' component={Card4} />
         <Route path='/about' component={About} />
 
      
