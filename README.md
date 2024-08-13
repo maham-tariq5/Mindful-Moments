@@ -1,3 +1,1 @@
-got it deployed hehe
-
-fixing chrome image rendering problem
+need to work on card 5 file
