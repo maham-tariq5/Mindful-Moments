@@ -34,8 +34,8 @@ function Cards() {
             />
             <CardItem
               id = '4'
-              src='images/Travel.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              src='images/IMG_5623.jpg'
+              text='Keep The Pure Hearts Close to You'
               label='Adventure'
               
             />
