@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import './Cards.css'; // Import CSS for consistent styling
+import './Cards.css'; 
 
 const cardData = [
   {
