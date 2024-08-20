@@ -5,8 +5,11 @@ Personal blog where I share my thoughts, experiences, and insights on mindfulnes
 # Technologies Used
 
 Frontend: React
+
 Styling: CSS 
+
 Routing: React Router
+
 Deployment: Vercel 
 
 
