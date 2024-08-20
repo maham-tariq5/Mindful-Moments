@@ -1,17 +1,17 @@
 import React from 'react';
-import './Card1.css'; 
+import './Card1.css'; // Import the updated CSS file
 
 function Card2() {
   return (
     <div className="pageContainer">
       <img
-        className="headerImage"
+        className="headerImg"
         src='/images/Maham.jpg'
-        alt=''
+        alt='Melodrama By Lorde Concept Short Story'
       />
       <div className="pageContent">
         <h1 className="title">Patience is a Virtue</h1>
-        <span className="date">2 hours ago</span>
+        
         <p className="description">
          
         How many times have you felt like a failure in a depressive slump looking for the light but stuck in the darkness? 
@@ -30,5 +30,8 @@ function Card2() {
     </div>
   );
 }
+
+export default Card2;
+
 
 export default Card2;
