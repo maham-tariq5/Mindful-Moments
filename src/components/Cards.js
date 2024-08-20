@@ -42,7 +42,7 @@ function Cards() {
             <CardItem
               id = '5'
               src='images/lake.jpeg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='A Sibling is Forever'
               label='Adrenaline'
               
             />
