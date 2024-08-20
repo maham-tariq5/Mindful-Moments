@@ -13,14 +13,14 @@ function Cards() {
               id ='1'
               src='images/Melo.jpg'
               text='Melodrama by Lorde Concept Short Story'
-              label='Adventure'
+             
            
             />
             <CardItem
               id = '2'
               src='images/Maham.jpg'
               text='Patience is a Virtue'
-              label='Luxury'
+              
               
             />
           </ul>
