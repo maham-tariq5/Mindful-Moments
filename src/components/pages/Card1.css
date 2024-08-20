@@ -29,7 +29,11 @@ body {
     margin-top: 10px;
   }
   
- 
+  .date {
+    font-size: 14px;
+    color: #777;
+    margin-top: 5px;
+  }
   
   .description {
     margin-top: 20px;
