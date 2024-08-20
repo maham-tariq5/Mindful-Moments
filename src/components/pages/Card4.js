@@ -5,8 +5,8 @@ function Card4() {
   return (
     <div className="pageContainer">
       <img
-        className="headerImage"
-        src='/images/Travel.jpg'
+        className="headerImg"
+        src='/images/IMG_7815.jpg'
         alt=''
       />
       <div className="pageContent">
