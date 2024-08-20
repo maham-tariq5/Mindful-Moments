@@ -1,11 +1,11 @@
 import React from 'react';
-import './Card1.css'; 
+import './Card1.css'; // Import the updated CSS file
 
 function Card5() {
   return (
     <div className="pageContainer">
       <img
-        className="headerImage"
+        className="headerImg"
         src='/images/Background.jpg'
         alt=''
       />
