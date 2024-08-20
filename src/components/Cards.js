@@ -29,21 +29,21 @@ function Cards() {
               id = '3'
               src='images/pics.jpg'
               text='Allow Yourself to Grow'
-              label='Mystery'
+              
               
             />
             <CardItem
               id = '4'
               src='images/IMG_5623.jpg'
               text='Keep The Pure Hearts Close to You'
-              label='Adventure'
+             
               
             />
             <CardItem
               id = '5'
               src='images/IMG_8487.jpg'
               text='A Sibling Bond is Forever'
-              label='Adrenaline'
+              
               
             />
           </ul>
