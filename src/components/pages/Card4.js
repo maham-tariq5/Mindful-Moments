@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card1.css'; // Import the updated CSS file
+import './Card1.css'; 
 
 function Card4() {
   return (
