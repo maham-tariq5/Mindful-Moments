@@ -15,4 +15,4 @@ Deployment: Vercel
 
 # Minor Issues
 
-images not properly rendering on chrome and edge
+images not properly rendering on chrome and edge (currently fixing)
