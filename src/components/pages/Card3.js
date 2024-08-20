@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card1.css'; // Import the updated CSS file
+import './Card1.css'; 
 
 function Card3() {
   return (
@@ -11,7 +11,6 @@ function Card3() {
       />
       <div className="pageContent">
         <h1 className="title">Allow Yourself to Grow</h1>
-  
         <p className="description">
          
         It is always the situations in life where we break out from our comfort zone that allow us to grow. When I initially moved out for university, I was terrified of what I’d have to face on my own, but I told myself that the change would be good for me and that I’d learn how to be independent. It wasn’t easy navigating my first month on my own—figuring out where to get lunch, what building my math class was in, and whether the friends I was making were genuine. Recently, I just finished my fourth semester of university, and all I can say is how much I’ve grown since I left.
