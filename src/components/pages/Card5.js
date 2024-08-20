@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card1.css'; // Import the updated CSS file
+import './Card1.css'; 
 
 function Card5() {
   return (
@@ -18,6 +18,10 @@ function Card5() {
         
         <p className="description">
         Just like any sibling parallel relationship, my brother and I fought a lot when we were kids, particularly over the most unnecessary things like who got to play on the Xbox, or me finishing the last cupcake he claimed. We would be upset with each other for a few minutes, and shortly after we would apologize and become best friends again. He was the older brother I never asked for, but his presence in my life quickly became a blessing in disguise. I know I can always rely on him for realistic advice, being a support system and listening to my issues, and advocating for me in disagreements with my parents. 
+        </p>
+
+        <p className="description">
+        In most cases, older siblings give good advice because they have more life experience. In the last few months, I’ve experienced distress in many forms, but the most notable was during my first co-op work term search. Hearing all my classmates constantly talk about the internships they applied to and the interviews they were getting made me feel bad about myself and question my self-worth. I remember calling my brother one day to tell him how I had been feeling. He had gone through the same phase right before landing his first job after graduating. As always, he calmed me down and reminded me not to compare my journey to anyone else’s. He said, as he often does, “If it happens, it happens. It is what it is. Don’t lose hope and cut yourself some slack—the market is bad.” I took his words to heart, and by the grace of God, I eventually found something.
         </p>
         
         <p className="description">
