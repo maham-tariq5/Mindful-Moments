@@ -6,7 +6,7 @@ function Card5() {
     <div className="pageContainer">
       <img
         className="headerImage"
-        src='/images/Travel.jpg'
+        src='/images/Background.jpg'
         alt=''
       />
       <div className="pageContent">
@@ -43,3 +43,4 @@ After a long day, my brother decided to cook dinner for us. When my mother came 
 }
 
 export default Card5;
+
