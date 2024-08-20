@@ -41,8 +41,8 @@ function Cards() {
             />
             <CardItem
               id = '5'
-              src='images/lake.jpeg'
-              text='A Sibling is Forever'
+              src='images/IMG_8487.jpg'
+              text='A Sibling Bond is Forever'
               label='Adrenaline'
               
             />
