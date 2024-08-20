@@ -5,13 +5,13 @@ function Card1() {
   return (
     <div className="pageContainer">
       <img
-        className="headerImage"
+        className="headerImg"
         src='/images/Melo.jpg'
         alt='Melodrama By Lorde Concept Short Story'
       />
       <div className="pageContent">
         <h1 className="title">Melodrama By Lorde Concept Short Story</h1>
-        <span className="date">2 hours ago</span>
+       
         <div className="description">
           <h3 className="chapterTitle">Chapter 1 Green Light</h3>
           <p>
@@ -64,7 +64,7 @@ function Card1() {
             It started getting dark outside, so I had to turn on more lights around the house. 
             The vibe of the party in the backyard was surreal: there were bright blue lights, a blue-tinted pool, 
             and people dancing with their significant others. 
-            Our friends, our drinks, we felt inspired, blowing up shit with homemade dynamite.
+            Our friends, our drinks, we felt inspired, blowing off steam with homemade dynamite.
           </p>
 
           <h3 className="chapterTitle">Chapter 4: The Louvre</h3>
